@@ -1,0 +1,4 @@
+medium: 1843353
+high: 8379906
+critical: 172061
+low: 111140
